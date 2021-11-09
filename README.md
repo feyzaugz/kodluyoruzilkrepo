@@ -9,7 +9,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org.tr) Front-End Eğitiminde oluşturdu
  `git clone https://github.com/feyzaugz/kodluyoruzilkrepo.git`
 
 # **Usage**
-Projeyi cloenladıktan sonra visual studio code içinde açtım. 
+* Projeyi cloenladıktan sonra visual studio code içinde açtım. 
+* Markdown dosyamın içine projemin bir resmini koydum.
+* Repomun içine bir adet index.html dosyası oluşturdum.
+* En sonunda yaptığım değişiklikleri ekleyip, commitledim ve GİTHUB'a gönderdim.
 
 # **License**
 [MIT](https://choosealicense.com/licenses/mit/)
